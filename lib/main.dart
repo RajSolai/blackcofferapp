@@ -1,4 +1,3 @@
-import 'package:blackcofferapp/home.dart';
 import 'package:blackcofferapp/pages/splash.dart';
 import 'package:camera/camera.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -18,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) { 
     return MaterialApp(
       title: 'Blackcoffer App',
-      home: Home(),
+      home: Splash(),
     );
   }
 }

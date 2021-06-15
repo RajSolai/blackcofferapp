@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445121621299",
+    "project_id": "backcofferapp",
+    "storage_bucket": "backcofferapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445121621299:android:4af3efdb69222c7a3ca246",
+        "android_client_info": {
+          "package_name": "io.github.rajsolai.blackcofferapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445121621299-jcg0vh0adg4m9lhpbn1k960uk80nnbft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBne-YFvqEuf5t7auISjBkaNarKvealcM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445121621299-jcg0vh0adg4m9lhpbn1k960uk80nnbft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

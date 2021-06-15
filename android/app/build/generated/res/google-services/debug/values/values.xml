@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">445121621299-jcg0vh0adg4m9lhpbn1k960uk80nnbft.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">445121621299</string>
+    <string name="google_api_key" translatable="false">AIzaSyBne-YFvqEuf5t7auISjBkaNarKvealcM8</string>
+    <string name="google_app_id" translatable="false">1:445121621299:android:4af3efdb69222c7a3ca246</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBne-YFvqEuf5t7auISjBkaNarKvealcM8</string>
+    <string name="google_storage_bucket" translatable="false">backcofferapp.appspot.com</string>
+    <string name="project_id" translatable="false">backcofferapp</string>
+</resources>
